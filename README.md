@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyein Suh! 안녕하세요, 저는 서혜인 입니다!</h1>
-<h3 align="center">Development is truly a source of happiness for me.</h3>
+<h3 align="center">Development is truly a source of happiness for me.😆</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haileyhaha&label=Profile%20views&color=0e75b6&style=flat" alt="haileyhaha" /> </p>
 
